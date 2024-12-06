@@ -1,1 +1,1 @@
-# coffee-shop-data_analysis-using-sql_queries
+# coffee-shop-data_analysis-using-sql
